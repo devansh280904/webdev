@@ -1,0 +1,46 @@
+#index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>proto1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>FIRST PROTOTYPE</h1>
+    <h2>MAIN FIRST PROTOTYPE</h2>
+    <p>
+        <p></p><a target="_blank" href="https://youtube.com">GO TO YOUTUBE</a>
+    </p>
+    
+    <p><a target="_blank" href="https://yahoo.com">GO TO yahoo</a></p>
+
+    <p></p><a target="_blank" href="https://instagram.com">GO TO insta</a></p>
+
+    <p></p><a target="_blank" href="https://facebook.com">GO TO FB</a></p>
+
+    <p></p><a target="_blank" href="https://google.com">GO TO GOOGLE</a></p>
+
+    <h3>MAIN FIRST PROTOTYPE</h3>
+    <h4>MAIN FIRST PROTOTYPE</h4>
+    <h5>MAIN FIRST PROTOTYPE</h5>
+    <h6>MAIN FIRST PROTOTYPE</h6>
+
+    <P style="background-color: rgba(81, 255, 0, 0.749);">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse cum vero iusto debitis accusantium architecto, est aliquam maiores molestias sit, quam ipsam nostrum assumenda, qui id recusandae. Dolores, omnis quis.</P>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+#style.css
+body{
+    background-color: rgb(85, 85, 85);
+    color: rgb(11, 12, 10);
+}
+
+
+#script.js
+alert("WELCOME TO THE FIGHT CLUB")
